@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- ...existing code... -->
+    <link rel="stylesheet" href="/styles/globals.css">
+  </head>
+  <body class="sans-serif bg-white dark:bg-gray-900 text-black dark:text-white">
+    <!-- Replace Tachyons classes with Tailwind equivalents -->
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+      {% include "components/header.njk" %}
+      <main class="py-8">
+        {{ content | safe }}
+      </main>
+      {% include "components/footer.njk" %}
+    </div>
+  </body>
+</html>
