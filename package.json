@@ -1,0 +1,16 @@
+{
+  "name": "phivk-website",
+  "version": "1.0.0",
+  "description": "Personal website of Philo van Kemenade",
+  "main": ".eleventy.js",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "dev": "eleventy --serve"
+  },
+  "author": "Philo van Kemenade",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0"
+  }
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "name": "linkedin",
+    "url": "https://www.linkedin.com/in/philovk/",
+    "icon": "linkedin"
+  },
+  {
+    "name": "slides",
+    "url": "https://slides.com/phivk/",
+    "icon": "image"
+  },
+  {
+    "name": "twitter",
+    "url": "https://twitter.com/phivk",
+    "icon": "twitter"
+  },
+  {
+    "name": "mastodon",
+    "url": "https://c.im/@Phivk",
+    "icon": "at-sign",
+    "rel": "me"
+  },
+  {
+    "name": "github",
+    "url": "https://github.com/phivk/",
+    "icon": "github"
+  },
+  {
+    "name": "medium",
+    "url": "https://medium.com/@phivk",
+    "icon": "edit"
+  },
+  {
+    "name": "are.na",
+    "url": "http://are.na/philo-van-kemenade/",
+    "icon": "bookmark"
+  },
+  {
+    "name": "vimeo",
+    "url": "https://vimeo.com/phivk",
+    "icon": "youtube"
+  }
+]
